@@ -15,6 +15,3 @@ O jogo se chama blazee xtreme é um jogo estilo rpg, O público alvo é voltado 
 <img src="/PROJETO2/5.png" alt="img_5"/>
 <img src="/PROJETO2/6.png" alt="img_6"/>
 <img src="/PROJETO2/7.png" alt="img_7"/>
-<img src="/PROJETO2/Hoshigake_Parado.png" alt="img_HoshigakeParado"/>
-<img src="/PROJETO2/Taeda.png" alt="img_Taeda"/>
-<img src="/PROJETO2/zoombie2.png" alt="img_zoombie2"/>
